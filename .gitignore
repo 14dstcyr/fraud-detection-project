@@ -65,6 +65,13 @@ db.sqlite3-journal
 instance/
 .webassets-cache
 
+*.csv
+*.zip
+*.parquet
+*.log
+__pycache__/
+.ipynb_checkpoints/
+
 # Scrapy stuff:
 .scrapy
 
