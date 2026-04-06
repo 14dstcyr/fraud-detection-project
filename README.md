@@ -35,4 +35,4 @@ The following steps were performed:
 - Scikit-learn
 
 ## Author
-Deb St. Cyr
+Deborah (Deb) St. Cyr
